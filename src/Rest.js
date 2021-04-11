@@ -1,7 +1,7 @@
 import axios from "axios";
 
 let client = axios.create({
-    baseURL: "http://jsonplaceholder.typicode.com/"
+    baseURL: "https://jsonplaceholder.typicode.com/"
 });
 
 
